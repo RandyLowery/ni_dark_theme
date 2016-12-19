@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include ni_dark_theme *.css
+recursive-include ni_dark_theme *.csv
+recursive-include ni_dark_theme *.html
+recursive-include ni_dark_theme *.ico
+recursive-include ni_dark_theme *.js
+recursive-include ni_dark_theme *.json
+recursive-include ni_dark_theme *.md
+recursive-include ni_dark_theme *.png
+recursive-include ni_dark_theme *.py
+recursive-include ni_dark_theme *.svg
+recursive-include ni_dark_theme *.txt
+recursive-exclude ni_dark_theme *.pyc
