@@ -11087,7 +11087,7 @@ body[data-route="desktop"] .navbar-set-desktop-icons {
 }
 .form-dashboard {
   background-color: #323232;
-  /* border-bottom: 1px solid #d1d8dd; */
+  border-bottom: 1px solid #282828;
 }
 .form-documents h6 {
   margin-top: 15px;
