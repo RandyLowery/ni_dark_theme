@@ -10161,7 +10161,7 @@ fieldset[disabled] .form-control {
     float: left;
   }
   .navbar-desk ~ ul > li a {
-    padding-left: 10px !important;
+    padding-left: 1px !important;
     padding-right: 10px !important;
   }
   .navbar-desk ~ ul > li a .avatar {
