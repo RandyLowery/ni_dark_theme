@@ -731,7 +731,7 @@ button.ui-button::-moz-focus-inner { border: 0; padding: 0; } /* reset extra pad
  * http://jqueryui.com/datepicker/
  */
 .ui-datepicker { width: 17em; padding: .2em .2em 0; display: none; }
-.ui-datepicker .ui-datepicker-header {position:relative;padding:.2em 0;border:0px;font-weight: bold;width: 100%;padding: 4px 0;/* background-color: #ffa00a; */color: #808080;}
+.ui-datepicker .ui-datepicker-header {position:relative;padding:.2em 0;border:0px;font-weight: bold;width: 100%;padding: 4px 0;background-color: #282828;color: #808080;}
 .ui-datepicker .ui-datepicker-prev, .ui-datepicker .ui-datepicker-next { position:absolute; top: 2px; width: 1.8em; height: 1.8em; }
 
 .ui-datepicker .ui-datepicker-prev-hover, .ui-datepicker .ui-datepicker-next-hover { /*top: 1px;*/ }
@@ -746,7 +746,7 @@ button.ui-button::-moz-focus-inner { border: 0; padding: 0; } /* reset extra pad
 .ui-datepicker .ui-datepicker-title select { font-size:1em; margin:1px 0; }
 .ui-datepicker select.ui-datepicker-month-year {width: 100%;}
 .ui-datepicker select.ui-datepicker-month,
-.ui-datepicker select.ui-datepicker-year {width: 49%;background-color: #282828;}
+.ui-datepicker select.ui-datepicker-year {width: 49%;background-color: #282828;border-color: #323232;}
 .ui-datepicker table {width: 100%; font-size: .9em; border-collapse: collapse; margin:0 0 .4em; }
 .ui-datepicker th { padding: .7em .3em; text-align: center; font-weight: bold; border: 0;  }
 .ui-datepicker td { border: 0; padding: 1px; }
@@ -826,7 +826,7 @@ button.ui-button::-moz-focus-inner { border: 0; padding: 0; } /* reset extra pad
   background:none;
   margin-bottom:0px;
   padding:5px;
-  color: #a5a5a5;
+  color: #2b89f3;
   text-align: center;
   filter:none;
 }
@@ -5819,9 +5819,9 @@ a.thumbnail.active {
   color: #712bff;
 }
 .alert-warning {
-  color: #0c0c0b;
-  background-color: rgba(255, 255, 255, .9);
-  border-color: #ffa00a;
+  color: #f7fafc;
+  background-color: #b35555;
+  border-color: rgba(0, 0, 0, 0);
 }
 .alert-warning hr {
   border-top-color: #f09300;
@@ -9015,197 +9015,197 @@ a .icon-flip-vertical:before {
 }
 .mega-octicon { font-size: 32px; }
 
-.octicon-alert:before { content: '\f02d'} /* Ã¯â‚¬Â­ */
-.octicon-arrow-down:before { content: '\f03f'} /* Ã¯â‚¬Â¿ */
-.octicon-arrow-left:before { content: '\f040'} /* Ã¯Ââ‚¬ */
-.octicon-arrow-right:before { content: '\f03e'} /* Ã¯â‚¬Â¾ */
-.octicon-arrow-small-down:before { content: '\f0a0'} /* Ã¯â€šÂ  */
-.octicon-arrow-small-left:before { content: '\f0a1'} /* Ã¯â€šÂ¡ */
-.octicon-arrow-small-right:before { content: '\f071'} /* Ã¯ÂÂ± */
-.octicon-arrow-small-up:before { content: '\f09f'} /* Ã¯â€šÅ¸ */
-.octicon-arrow-up:before { content: '\f03d'} /* Ã¯â‚¬Â½ */
+.octicon-alert:before { content: '\f02d'} /* ÃƒÂ¯Ã¢â€šÂ¬Ã‚Â­ */
+.octicon-arrow-down:before { content: '\f03f'} /* ÃƒÂ¯Ã¢â€šÂ¬Ã‚Â¿ */
+.octicon-arrow-left:before { content: '\f040'} /* ÃƒÂ¯Ã‚ÂÃ¢â€šÂ¬ */
+.octicon-arrow-right:before { content: '\f03e'} /* ÃƒÂ¯Ã¢â€šÂ¬Ã‚Â¾ */
+.octicon-arrow-small-down:before { content: '\f0a0'} /* ÃƒÂ¯Ã¢â‚¬Å¡Ã‚Â  */
+.octicon-arrow-small-left:before { content: '\f0a1'} /* ÃƒÂ¯Ã¢â‚¬Å¡Ã‚Â¡ */
+.octicon-arrow-small-right:before { content: '\f071'} /* ÃƒÂ¯Ã‚ÂÃ‚Â± */
+.octicon-arrow-small-up:before { content: '\f09f'} /* ÃƒÂ¯Ã¢â‚¬Å¡Ã…Â¸ */
+.octicon-arrow-up:before { content: '\f03d'} /* ÃƒÂ¯Ã¢â€šÂ¬Ã‚Â½ */
 .octicon-microscope:before,
-.octicon-beaker:before { content: '\f0dd'} /* Ã¯Æ’Â */
-.octicon-bell:before { content: '\f0de'} /* Ã¯Æ’Å¾ */
-.octicon-book:before { content: '\f007'} /* Ã¯â‚¬â€¡ */
-.octicon-bookmark:before { content: '\f07b'} /* Ã¯ÂÂ» */
-.octicon-briefcase:before { content: '\f0d3'} /* Ã¯Æ’â€œ */
-.octicon-broadcast:before { content: '\f048'} /* Ã¯ÂË† */
-.octicon-browser:before { content: '\f0c5'} /* Ã¯Æ’â€¦ */
-.octicon-bug:before { content: '\f091'} /* Ã¯â€šâ€˜ */
-.octicon-calendar:before { content: '\f068'} /* Ã¯ÂÂ¨ */
-.octicon-check:before { content: '\f03a'} /* Ã¯â‚¬Âº */
-.octicon-checklist:before { content: '\f076'} /* Ã¯ÂÂ¶ */
-.octicon-chevron-down:before { content: '\f0a3'} /* Ã¯â€šÂ£ */
-.octicon-chevron-left:before { content: '\f0a4'} /* Ã¯â€šÂ¤ */
-.octicon-chevron-right:before { content: '\f078'} /* Ã¯ÂÂ¸ */
-.octicon-chevron-up:before { content: '\f0a2'} /* Ã¯â€šÂ¢ */
-.octicon-circle-slash:before { content: '\f084'} /* Ã¯â€šâ€ž */
-.octicon-circuit-board:before { content: '\f0d6'} /* Ã¯Æ’â€“ */
-.octicon-clippy:before { content: '\f035'} /* Ã¯â‚¬Âµ */
-.octicon-clock:before { content: '\f046'} /* Ã¯Ââ€  */
-.octicon-cloud-download:before { content: '\f00b'} /* Ã¯â‚¬â€¹ */
-.octicon-cloud-upload:before { content: '\f00c'} /* Ã¯â‚¬Å’ */
-.octicon-code:before { content: '\f05f'} /* Ã¯ÂÅ¸ */
-.octicon-color-mode:before { content: '\f065'} /* Ã¯ÂÂ¥ */
+.octicon-beaker:before { content: '\f0dd'} /* ÃƒÂ¯Ã†â€™Ã‚Â */
+.octicon-bell:before { content: '\f0de'} /* ÃƒÂ¯Ã†â€™Ã…Â¾ */
+.octicon-book:before { content: '\f007'} /* ÃƒÂ¯Ã¢â€šÂ¬Ã¢â‚¬Â¡ */
+.octicon-bookmark:before { content: '\f07b'} /* ÃƒÂ¯Ã‚ÂÃ‚Â» */
+.octicon-briefcase:before { content: '\f0d3'} /* ÃƒÂ¯Ã†â€™Ã¢â‚¬Å“ */
+.octicon-broadcast:before { content: '\f048'} /* ÃƒÂ¯Ã‚ÂÃ‹â€  */
+.octicon-browser:before { content: '\f0c5'} /* ÃƒÂ¯Ã†â€™Ã¢â‚¬Â¦ */
+.octicon-bug:before { content: '\f091'} /* ÃƒÂ¯Ã¢â‚¬Å¡Ã¢â‚¬Ëœ */
+.octicon-calendar:before { content: '\f068'} /* ÃƒÂ¯Ã‚ÂÃ‚Â¨ */
+.octicon-check:before { content: '\f03a'} /* ÃƒÂ¯Ã¢â€šÂ¬Ã‚Âº */
+.octicon-checklist:before { content: '\f076'} /* ÃƒÂ¯Ã‚ÂÃ‚Â¶ */
+.octicon-chevron-down:before { content: '\f0a3'} /* ÃƒÂ¯Ã¢â‚¬Å¡Ã‚Â£ */
+.octicon-chevron-left:before { content: '\f0a4'} /* ÃƒÂ¯Ã¢â‚¬Å¡Ã‚Â¤ */
+.octicon-chevron-right:before { content: '\f078'} /* ÃƒÂ¯Ã‚ÂÃ‚Â¸ */
+.octicon-chevron-up:before { content: '\f0a2'} /* ÃƒÂ¯Ã¢â‚¬Å¡Ã‚Â¢ */
+.octicon-circle-slash:before { content: '\f084'} /* ÃƒÂ¯Ã¢â‚¬Å¡Ã¢â‚¬Å¾ */
+.octicon-circuit-board:before { content: '\f0d6'} /* ÃƒÂ¯Ã†â€™Ã¢â‚¬â€œ */
+.octicon-clippy:before { content: '\f035'} /* ÃƒÂ¯Ã¢â€šÂ¬Ã‚Âµ */
+.octicon-clock:before { content: '\f046'} /* ÃƒÂ¯Ã‚ÂÃ¢â‚¬Â  */
+.octicon-cloud-download:before { content: '\f00b'} /* ÃƒÂ¯Ã¢â€šÂ¬Ã¢â‚¬Â¹ */
+.octicon-cloud-upload:before { content: '\f00c'} /* ÃƒÂ¯Ã¢â€šÂ¬Ã…â€™ */
+.octicon-code:before { content: '\f05f'} /* ÃƒÂ¯Ã‚ÂÃ…Â¸ */
+.octicon-color-mode:before { content: '\f065'} /* ÃƒÂ¯Ã‚ÂÃ‚Â¥ */
 .octicon-comment-add:before,
-.octicon-comment:before { content: '\f02b'} /* Ã¯â‚¬Â« */
-.octicon-comment-discussion:before { content: '\f04f'} /* Ã¯ÂÂ */
-.octicon-credit-card:before { content: '\f045'} /* Ã¯Ââ€¦ */
-.octicon-dash:before { content: '\f0ca'} /* Ã¯Æ’Å  */
-.octicon-dashboard:before { content: '\f07d'} /* Ã¯ÂÂ½ */
-.octicon-database:before { content: '\f096'} /* Ã¯â€šâ€“ */
+.octicon-comment:before { content: '\f02b'} /* ÃƒÂ¯Ã¢â€šÂ¬Ã‚Â« */
+.octicon-comment-discussion:before { content: '\f04f'} /* ÃƒÂ¯Ã‚ÂÃ‚Â */
+.octicon-credit-card:before { content: '\f045'} /* ÃƒÂ¯Ã‚ÂÃ¢â‚¬Â¦ */
+.octicon-dash:before { content: '\f0ca'} /* ÃƒÂ¯Ã†â€™Ã…Â  */
+.octicon-dashboard:before { content: '\f07d'} /* ÃƒÂ¯Ã‚ÂÃ‚Â½ */
+.octicon-database:before { content: '\f096'} /* ÃƒÂ¯Ã¢â‚¬Å¡Ã¢â‚¬â€œ */
 .octicon-clone:before,
-.octicon-desktop-download:before { content: '\f0dc'} /* Ã¯Æ’Å“ */
-.octicon-device-camera:before { content: '\f056'} /* Ã¯Ââ€“ */
-.octicon-device-camera-video:before { content: '\f057'} /* Ã¯Ââ€” */
-.octicon-device-desktop:before { content: '\f27c'} /* Ã¯â€°Â¼ */
-.octicon-device-mobile:before { content: '\f038'} /* Ã¯â‚¬Â¸ */
-.octicon-diff:before { content: '\f04d'} /* Ã¯ÂÂ */
-.octicon-diff-added:before { content: '\f06b'} /* Ã¯ÂÂ« */
-.octicon-diff-ignored:before { content: '\f099'} /* Ã¯â€šâ„¢ */
-.octicon-diff-modified:before { content: '\f06d'} /* Ã¯ÂÂ­ */
-.octicon-diff-removed:before { content: '\f06c'} /* Ã¯ÂÂ¬ */
-.octicon-diff-renamed:before { content: '\f06e'} /* Ã¯ÂÂ® */
-.octicon-ellipsis:before { content: '\f09a'} /* Ã¯â€šÅ¡ */
+.octicon-desktop-download:before { content: '\f0dc'} /* ÃƒÂ¯Ã†â€™Ã…â€œ */
+.octicon-device-camera:before { content: '\f056'} /* ÃƒÂ¯Ã‚ÂÃ¢â‚¬â€œ */
+.octicon-device-camera-video:before { content: '\f057'} /* ÃƒÂ¯Ã‚ÂÃ¢â‚¬â€ */
+.octicon-device-desktop:before { content: '\f27c'} /* ÃƒÂ¯Ã¢â‚¬Â°Ã‚Â¼ */
+.octicon-device-mobile:before { content: '\f038'} /* ÃƒÂ¯Ã¢â€šÂ¬Ã‚Â¸ */
+.octicon-diff:before { content: '\f04d'} /* ÃƒÂ¯Ã‚ÂÃ‚Â */
+.octicon-diff-added:before { content: '\f06b'} /* ÃƒÂ¯Ã‚ÂÃ‚Â« */
+.octicon-diff-ignored:before { content: '\f099'} /* ÃƒÂ¯Ã¢â‚¬Å¡Ã¢â€žÂ¢ */
+.octicon-diff-modified:before { content: '\f06d'} /* ÃƒÂ¯Ã‚ÂÃ‚Â­ */
+.octicon-diff-removed:before { content: '\f06c'} /* ÃƒÂ¯Ã‚ÂÃ‚Â¬ */
+.octicon-diff-renamed:before { content: '\f06e'} /* ÃƒÂ¯Ã‚ÂÃ‚Â® */
+.octicon-ellipsis:before { content: '\f09a'} /* ÃƒÂ¯Ã¢â‚¬Å¡Ã…Â¡ */
 .octicon-eye-unwatch:before,
 .octicon-eye-watch:before,
-.octicon-eye:before { content: '\f04e'} /* Ã¯ÂÅ½ */
-.octicon-file-binary:before { content: '\f094'} /* Ã¯â€šâ€ */
-.octicon-file-code:before { content: '\f010'} /* Ã¯â‚¬Â */
-.octicon-file-directory:before { content: '\f016'} /* Ã¯â‚¬â€“ */
-.octicon-file-media:before { content: '\f012'} /* Ã¯â‚¬â€™ */
-.octicon-file-pdf:before { content: '\f014'} /* Ã¯â‚¬â€ */
-.octicon-file-submodule:before { content: '\f017'} /* Ã¯â‚¬â€” */
-.octicon-file-symlink-directory:before { content: '\f0b1'} /* Ã¯â€šÂ± */
-.octicon-file-symlink-file:before { content: '\f0b0'} /* Ã¯â€šÂ° */
-.octicon-file-text:before { content: '\f011'} /* Ã¯â‚¬â€˜ */
-.octicon-file-zip:before { content: '\f013'} /* Ã¯â‚¬â€œ */
-.octicon-flame:before { content: '\f0d2'} /* Ã¯Æ’â€™ */
-.octicon-fold:before { content: '\f0cc'} /* Ã¯Æ’Å’ */
-.octicon-gear:before { content: '\f02f'} /* Ã¯â‚¬Â¯ */
-.octicon-gift:before { content: '\f042'} /* Ã¯Ââ€š */
-.octicon-gist:before { content: '\f00e'} /* Ã¯â‚¬Å½ */
-.octicon-gist-secret:before { content: '\f08c'} /* Ã¯â€šÅ’ */
+.octicon-eye:before { content: '\f04e'} /* ÃƒÂ¯Ã‚ÂÃ…Â½ */
+.octicon-file-binary:before { content: '\f094'} /* ÃƒÂ¯Ã¢â‚¬Å¡Ã¢â‚¬Â */
+.octicon-file-code:before { content: '\f010'} /* ÃƒÂ¯Ã¢â€šÂ¬Ã‚Â */
+.octicon-file-directory:before { content: '\f016'} /* ÃƒÂ¯Ã¢â€šÂ¬Ã¢â‚¬â€œ */
+.octicon-file-media:before { content: '\f012'} /* ÃƒÂ¯Ã¢â€šÂ¬Ã¢â‚¬â„¢ */
+.octicon-file-pdf:before { content: '\f014'} /* ÃƒÂ¯Ã¢â€šÂ¬Ã¢â‚¬Â */
+.octicon-file-submodule:before { content: '\f017'} /* ÃƒÂ¯Ã¢â€šÂ¬Ã¢â‚¬â€ */
+.octicon-file-symlink-directory:before { content: '\f0b1'} /* ÃƒÂ¯Ã¢â‚¬Å¡Ã‚Â± */
+.octicon-file-symlink-file:before { content: '\f0b0'} /* ÃƒÂ¯Ã¢â‚¬Å¡Ã‚Â° */
+.octicon-file-text:before { content: '\f011'} /* ÃƒÂ¯Ã¢â€šÂ¬Ã¢â‚¬Ëœ */
+.octicon-file-zip:before { content: '\f013'} /* ÃƒÂ¯Ã¢â€šÂ¬Ã¢â‚¬Å“ */
+.octicon-flame:before { content: '\f0d2'} /* ÃƒÂ¯Ã†â€™Ã¢â‚¬â„¢ */
+.octicon-fold:before { content: '\f0cc'} /* ÃƒÂ¯Ã†â€™Ã…â€™ */
+.octicon-gear:before { content: '\f02f'} /* ÃƒÂ¯Ã¢â€šÂ¬Ã‚Â¯ */
+.octicon-gift:before { content: '\f042'} /* ÃƒÂ¯Ã‚ÂÃ¢â‚¬Å¡ */
+.octicon-gist:before { content: '\f00e'} /* ÃƒÂ¯Ã¢â€šÂ¬Ã…Â½ */
+.octicon-gist-secret:before { content: '\f08c'} /* ÃƒÂ¯Ã¢â‚¬Å¡Ã…â€™ */
 .octicon-git-branch-create:before,
 .octicon-git-branch-delete:before,
-.octicon-git-branch:before { content: '\f020'} /* Ã¯â‚¬Â  */
-.octicon-git-commit:before { content: '\f01f'} /* Ã¯â‚¬Å¸ */
-.octicon-git-compare:before { content: '\f0ac'} /* Ã¯â€šÂ¬ */
-.octicon-git-merge:before { content: '\f023'} /* Ã¯â‚¬Â£ */
+.octicon-git-branch:before { content: '\f020'} /* ÃƒÂ¯Ã¢â€šÂ¬Ã‚Â  */
+.octicon-git-commit:before { content: '\f01f'} /* ÃƒÂ¯Ã¢â€šÂ¬Ã…Â¸ */
+.octicon-git-compare:before { content: '\f0ac'} /* ÃƒÂ¯Ã¢â‚¬Å¡Ã‚Â¬ */
+.octicon-git-merge:before { content: '\f023'} /* ÃƒÂ¯Ã¢â€šÂ¬Ã‚Â£ */
 .octicon-git-pull-request-abandoned:before,
-.octicon-git-pull-request:before { content: '\f009'} /* Ã¯â‚¬â€° */
-.octicon-globe:before { content: '\f0b6'} /* Ã¯â€šÂ¶ */
-.octicon-graph:before { content: '\f043'} /* Ã¯ÂÆ’ */
-.octicon-heart:before { content: '\2665'} /* Ã¢â„¢Â¥ */
-.octicon-history:before { content: '\f07e'} /* Ã¯ÂÂ¾ */
-.octicon-home:before { content: '\f08d'} /* Ã¯â€šÂ */
-.octicon-horizontal-rule:before { content: '\f070'} /* Ã¯ÂÂ° */
-.octicon-hubot:before { content: '\f09d'} /* Ã¯â€šÂ */
-.octicon-inbox:before { content: '\f0cf'} /* Ã¯Æ’Â */
-.octicon-info:before { content: '\f059'} /* Ã¯Ââ„¢ */
-.octicon-issue-closed:before { content: '\f028'} /* Ã¯â‚¬Â¨ */
-.octicon-issue-opened:before { content: '\f026'} /* Ã¯â‚¬Â¦ */
-.octicon-issue-reopened:before { content: '\f027'} /* Ã¯â‚¬Â§ */
-.octicon-jersey:before { content: '\f019'} /* Ã¯â‚¬â„¢ */
-.octicon-key:before { content: '\f049'} /* Ã¯Ââ€° */
-.octicon-keyboard:before { content: '\f00d'} /* Ã¯â‚¬Â */
-.octicon-law:before { content: '\f0d8'} /* Ã¯Æ’Ëœ */
-.octicon-light-bulb:before { content: '\f000'} /* Ã¯â‚¬â‚¬ */
-.octicon-link:before { content: '\f05c'} /* Ã¯ÂÅ“ */
-.octicon-link-external:before { content: '\f07f'} /* Ã¯ÂÂ¿ */
-.octicon-list-ordered:before { content: '\f062'} /* Ã¯ÂÂ¢ */
-.octicon-list-unordered:before { content: '\f061'} /* Ã¯ÂÂ¡ */
-.octicon-location:before { content: '\f060'} /* Ã¯ÂÂ  */
+.octicon-git-pull-request:before { content: '\f009'} /* ÃƒÂ¯Ã¢â€šÂ¬Ã¢â‚¬Â° */
+.octicon-globe:before { content: '\f0b6'} /* ÃƒÂ¯Ã¢â‚¬Å¡Ã‚Â¶ */
+.octicon-graph:before { content: '\f043'} /* ÃƒÂ¯Ã‚ÂÃ†â€™ */
+.octicon-heart:before { content: '\2665'} /* ÃƒÂ¢Ã¢â€žÂ¢Ã‚Â¥ */
+.octicon-history:before { content: '\f07e'} /* ÃƒÂ¯Ã‚ÂÃ‚Â¾ */
+.octicon-home:before { content: '\f08d'} /* ÃƒÂ¯Ã¢â‚¬Å¡Ã‚Â */
+.octicon-horizontal-rule:before { content: '\f070'} /* ÃƒÂ¯Ã‚ÂÃ‚Â° */
+.octicon-hubot:before { content: '\f09d'} /* ÃƒÂ¯Ã¢â‚¬Å¡Ã‚Â */
+.octicon-inbox:before { content: '\f0cf'} /* ÃƒÂ¯Ã†â€™Ã‚Â */
+.octicon-info:before { content: '\f059'} /* ÃƒÂ¯Ã‚ÂÃ¢â€žÂ¢ */
+.octicon-issue-closed:before { content: '\f028'} /* ÃƒÂ¯Ã¢â€šÂ¬Ã‚Â¨ */
+.octicon-issue-opened:before { content: '\f026'} /* ÃƒÂ¯Ã¢â€šÂ¬Ã‚Â¦ */
+.octicon-issue-reopened:before { content: '\f027'} /* ÃƒÂ¯Ã¢â€šÂ¬Ã‚Â§ */
+.octicon-jersey:before { content: '\f019'} /* ÃƒÂ¯Ã¢â€šÂ¬Ã¢â€žÂ¢ */
+.octicon-key:before { content: '\f049'} /* ÃƒÂ¯Ã‚ÂÃ¢â‚¬Â° */
+.octicon-keyboard:before { content: '\f00d'} /* ÃƒÂ¯Ã¢â€šÂ¬Ã‚Â */
+.octicon-law:before { content: '\f0d8'} /* ÃƒÂ¯Ã†â€™Ã‹Å“ */
+.octicon-light-bulb:before { content: '\f000'} /* ÃƒÂ¯Ã¢â€šÂ¬Ã¢â€šÂ¬ */
+.octicon-link:before { content: '\f05c'} /* ÃƒÂ¯Ã‚ÂÃ…â€œ */
+.octicon-link-external:before { content: '\f07f'} /* ÃƒÂ¯Ã‚ÂÃ‚Â¿ */
+.octicon-list-ordered:before { content: '\f062'} /* ÃƒÂ¯Ã‚ÂÃ‚Â¢ */
+.octicon-list-unordered:before { content: '\f061'} /* ÃƒÂ¯Ã‚ÂÃ‚Â¡ */
+.octicon-location:before { content: '\f060'} /* ÃƒÂ¯Ã‚ÂÃ‚Â  */
 .octicon-gist-private:before,
 .octicon-mirror-private:before,
 .octicon-git-fork-private:before,
-.octicon-lock:before { content: '\f06a'} /* Ã¯ÂÂª */
-.octicon-logo-github:before { content: '\f092'} /* Ã¯â€šâ€™ */
-.octicon-mail:before { content: '\f03b'} /* Ã¯â‚¬Â» */
-.octicon-mail-read:before { content: '\f03c'} /* Ã¯â‚¬Â¼ */
-.octicon-mail-reply:before { content: '\f051'} /* Ã¯Ââ€˜ */
-.octicon-mark-github:before { content: '\f00a'} /* Ã¯â‚¬Å  */
-.octicon-markdown:before { content: '\f0c9'} /* Ã¯Æ’â€° */
-.octicon-megaphone:before { content: '\f077'} /* Ã¯ÂÂ· */
-.octicon-mention:before { content: '\f0be'} /* Ã¯â€šÂ¾ */
-.octicon-milestone:before { content: '\f075'} /* Ã¯ÂÂµ */
+.octicon-lock:before { content: '\f06a'} /* ÃƒÂ¯Ã‚ÂÃ‚Âª */
+.octicon-logo-github:before { content: '\f092'} /* ÃƒÂ¯Ã¢â‚¬Å¡Ã¢â‚¬â„¢ */
+.octicon-mail:before { content: '\f03b'} /* ÃƒÂ¯Ã¢â€šÂ¬Ã‚Â» */
+.octicon-mail-read:before { content: '\f03c'} /* ÃƒÂ¯Ã¢â€šÂ¬Ã‚Â¼ */
+.octicon-mail-reply:before { content: '\f051'} /* ÃƒÂ¯Ã‚ÂÃ¢â‚¬Ëœ */
+.octicon-mark-github:before { content: '\f00a'} /* ÃƒÂ¯Ã¢â€šÂ¬Ã…Â  */
+.octicon-markdown:before { content: '\f0c9'} /* ÃƒÂ¯Ã†â€™Ã¢â‚¬Â° */
+.octicon-megaphone:before { content: '\f077'} /* ÃƒÂ¯Ã‚ÂÃ‚Â· */
+.octicon-mention:before { content: '\f0be'} /* ÃƒÂ¯Ã¢â‚¬Å¡Ã‚Â¾ */
+.octicon-milestone:before { content: '\f075'} /* ÃƒÂ¯Ã‚ÂÃ‚Âµ */
 .octicon-mirror-public:before,
-.octicon-mirror:before { content: '\f024'} /* Ã¯â‚¬Â¤ */
-.octicon-mortar-board:before { content: '\f0d7'} /* Ã¯Æ’â€” */
-.octicon-mute:before { content: '\f080'} /* Ã¯â€šâ‚¬ */
-.octicon-no-newline:before { content: '\f09c'} /* Ã¯â€šÅ“ */
-.octicon-octoface:before { content: '\f008'} /* Ã¯â‚¬Ë† */
-.octicon-organization:before { content: '\f037'} /* Ã¯â‚¬Â· */
-.octicon-package:before { content: '\f0c4'} /* Ã¯Æ’â€ž */
-.octicon-paintcan:before { content: '\f0d1'} /* Ã¯Æ’â€˜ */
-.octicon-pencil:before { content: '\f058'} /* Ã¯ÂËœ */
+.octicon-mirror:before { content: '\f024'} /* ÃƒÂ¯Ã¢â€šÂ¬Ã‚Â¤ */
+.octicon-mortar-board:before { content: '\f0d7'} /* ÃƒÂ¯Ã†â€™Ã¢â‚¬â€ */
+.octicon-mute:before { content: '\f080'} /* ÃƒÂ¯Ã¢â‚¬Å¡Ã¢â€šÂ¬ */
+.octicon-no-newline:before { content: '\f09c'} /* ÃƒÂ¯Ã¢â‚¬Å¡Ã…â€œ */
+.octicon-octoface:before { content: '\f008'} /* ÃƒÂ¯Ã¢â€šÂ¬Ã‹â€  */
+.octicon-organization:before { content: '\f037'} /* ÃƒÂ¯Ã¢â€šÂ¬Ã‚Â· */
+.octicon-package:before { content: '\f0c4'} /* ÃƒÂ¯Ã†â€™Ã¢â‚¬Å¾ */
+.octicon-paintcan:before { content: '\f0d1'} /* ÃƒÂ¯Ã†â€™Ã¢â‚¬Ëœ */
+.octicon-pencil:before { content: '\f058'} /* ÃƒÂ¯Ã‚ÂÃ‹Å“ */
 .octicon-person-add:before,
 .octicon-person-follow:before,
-.octicon-person:before { content: '\f018'} /* Ã¯â‚¬Ëœ */
-.octicon-pin:before { content: '\f041'} /* Ã¯ÂÂ */
-.octicon-plug:before { content: '\f0d4'} /* Ã¯Æ’â€ */
+.octicon-person:before { content: '\f018'} /* ÃƒÂ¯Ã¢â€šÂ¬Ã‹Å“ */
+.octicon-pin:before { content: '\f041'} /* ÃƒÂ¯Ã‚ÂÃ‚Â */
+.octicon-plug:before { content: '\f0d4'} /* ÃƒÂ¯Ã†â€™Ã¢â‚¬Â */
 .octicon-repo-create:before,
 .octicon-gist-new:before,
 .octicon-file-directory-create:before,
 .octicon-file-add:before,
-.octicon-plus:before { content: '\f05d'} /* Ã¯ÂÂ */
-.octicon-primitive-dot:before { content: '\f052'} /* Ã¯Ââ€™ */
-.octicon-primitive-square:before { content: '\f053'} /* Ã¯Ââ€œ */
-.octicon-pulse:before { content: '\f085'} /* Ã¯â€šâ€¦ */
-.octicon-question:before { content: '\f02c'} /* Ã¯â‚¬Â¬ */
-.octicon-quote:before { content: '\f063'} /* Ã¯ÂÂ£ */
-.octicon-radio-tower:before { content: '\f030'} /* Ã¯â‚¬Â° */
+.octicon-plus:before { content: '\f05d'} /* ÃƒÂ¯Ã‚ÂÃ‚Â */
+.octicon-primitive-dot:before { content: '\f052'} /* ÃƒÂ¯Ã‚ÂÃ¢â‚¬â„¢ */
+.octicon-primitive-square:before { content: '\f053'} /* ÃƒÂ¯Ã‚ÂÃ¢â‚¬Å“ */
+.octicon-pulse:before { content: '\f085'} /* ÃƒÂ¯Ã¢â‚¬Å¡Ã¢â‚¬Â¦ */
+.octicon-question:before { content: '\f02c'} /* ÃƒÂ¯Ã¢â€šÂ¬Ã‚Â¬ */
+.octicon-quote:before { content: '\f063'} /* ÃƒÂ¯Ã‚ÂÃ‚Â£ */
+.octicon-radio-tower:before { content: '\f030'} /* ÃƒÂ¯Ã¢â€šÂ¬Ã‚Â° */
 .octicon-repo-delete:before,
-.octicon-repo:before { content: '\f001'} /* Ã¯â‚¬Â */
-.octicon-repo-clone:before { content: '\f04c'} /* Ã¯ÂÅ’ */
-.octicon-repo-force-push:before { content: '\f04a'} /* Ã¯ÂÅ  */
+.octicon-repo:before { content: '\f001'} /* ÃƒÂ¯Ã¢â€šÂ¬Ã‚Â */
+.octicon-repo-clone:before { content: '\f04c'} /* ÃƒÂ¯Ã‚ÂÃ…â€™ */
+.octicon-repo-force-push:before { content: '\f04a'} /* ÃƒÂ¯Ã‚ÂÃ…Â  */
 .octicon-gist-fork:before,
-.octicon-repo-forked:before { content: '\f002'} /* Ã¯â‚¬â€š */
-.octicon-repo-pull:before { content: '\f006'} /* Ã¯â‚¬â€  */
-.octicon-repo-push:before { content: '\f005'} /* Ã¯â‚¬â€¦ */
-.octicon-rocket:before { content: '\f033'} /* Ã¯â‚¬Â³ */
-.octicon-rss:before { content: '\f034'} /* Ã¯â‚¬Â´ */
-.octicon-ruby:before { content: '\f047'} /* Ã¯Ââ€¡ */
-.octicon-screen-full:before { content: '\f066'} /* Ã¯ÂÂ¦ */
-.octicon-screen-normal:before { content: '\f067'} /* Ã¯ÂÂ§ */
+.octicon-repo-forked:before { content: '\f002'} /* ÃƒÂ¯Ã¢â€šÂ¬Ã¢â‚¬Å¡ */
+.octicon-repo-pull:before { content: '\f006'} /* ÃƒÂ¯Ã¢â€šÂ¬Ã¢â‚¬Â  */
+.octicon-repo-push:before { content: '\f005'} /* ÃƒÂ¯Ã¢â€šÂ¬Ã¢â‚¬Â¦ */
+.octicon-rocket:before { content: '\f033'} /* ÃƒÂ¯Ã¢â€šÂ¬Ã‚Â³ */
+.octicon-rss:before { content: '\f034'} /* ÃƒÂ¯Ã¢â€šÂ¬Ã‚Â´ */
+.octicon-ruby:before { content: '\f047'} /* ÃƒÂ¯Ã‚ÂÃ¢â‚¬Â¡ */
+.octicon-screen-full:before { content: '\f066'} /* ÃƒÂ¯Ã‚ÂÃ‚Â¦ */
+.octicon-screen-normal:before { content: '\f067'} /* ÃƒÂ¯Ã‚ÂÃ‚Â§ */
 .octicon-search-save:before,
-.octicon-search:before { content: '\f02e'} /* Ã¯â‚¬Â® */
-.octicon-server:before { content: '\f097'} /* Ã¯â€šâ€” */
-.octicon-settings:before { content: '\f07c'} /* Ã¯ÂÂ¼ */
-.octicon-shield:before { content: '\f0e1'} /* Ã¯Æ’Â¡ */
+.octicon-search:before { content: '\f02e'} /* ÃƒÂ¯Ã¢â€šÂ¬Ã‚Â® */
+.octicon-server:before { content: '\f097'} /* ÃƒÂ¯Ã¢â‚¬Å¡Ã¢â‚¬â€ */
+.octicon-settings:before { content: '\f07c'} /* ÃƒÂ¯Ã‚ÂÃ‚Â¼ */
+.octicon-shield:before { content: '\f0e1'} /* ÃƒÂ¯Ã†â€™Ã‚Â¡ */
 .octicon-log-in:before,
-.octicon-sign-in:before { content: '\f036'} /* Ã¯â‚¬Â¶ */
+.octicon-sign-in:before { content: '\f036'} /* ÃƒÂ¯Ã¢â€šÂ¬Ã‚Â¶ */
 .octicon-log-out:before,
-.octicon-sign-out:before { content: '\f032'} /* Ã¯â‚¬Â² */
-.octicon-squirrel:before { content: '\f0b2'} /* Ã¯â€šÂ² */
+.octicon-sign-out:before { content: '\f032'} /* ÃƒÂ¯Ã¢â€šÂ¬Ã‚Â² */
+.octicon-squirrel:before { content: '\f0b2'} /* ÃƒÂ¯Ã¢â‚¬Å¡Ã‚Â² */
 .octicon-star-add:before,
 .octicon-star-delete:before,
-.octicon-star:before { content: '\f02a'} /* Ã¯â‚¬Âª */
-.octicon-stop:before { content: '\f08f'} /* Ã¯â€šÂ */
+.octicon-star:before { content: '\f02a'} /* ÃƒÂ¯Ã¢â€šÂ¬Ã‚Âª */
+.octicon-stop:before { content: '\f08f'} /* ÃƒÂ¯Ã¢â‚¬Å¡Ã‚Â */
 .octicon-repo-sync:before,
-.octicon-sync:before { content: '\f087'} /* Ã¯â€šâ€¡ */
+.octicon-sync:before { content: '\f087'} /* ÃƒÂ¯Ã¢â‚¬Å¡Ã¢â‚¬Â¡ */
 .octicon-tag-remove:before,
 .octicon-tag-add:before,
-.octicon-tag:before { content: '\f015'} /* Ã¯â‚¬â€¢ */
-.octicon-telescope:before { content: '\f088'} /* Ã¯â€šË† */
-.octicon-terminal:before { content: '\f0c8'} /* Ã¯Æ’Ë† */
-.octicon-three-bars:before { content: '\f05e'} /* Ã¯ÂÅ¾ */
-.octicon-thumbsdown:before { content: '\f0db'} /* Ã¯Æ’â€º */
-.octicon-thumbsup:before { content: '\f0da'} /* Ã¯Æ’Å¡ */
-.octicon-tools:before { content: '\f031'} /* Ã¯â‚¬Â± */
-.octicon-trashcan:before { content: '\f0d0'} /* Ã¯Æ’Â */
-.octicon-triangle-down:before { content: '\f05b'} /* Ã¯Ââ€º */
-.octicon-triangle-left:before { content: '\f044'} /* Ã¯Ââ€ž */
-.octicon-triangle-right:before { content: '\f05a'} /* Ã¯ÂÅ¡ */
-.octicon-triangle-up:before { content: '\f0aa'} /* Ã¯â€šÂª */
-.octicon-unfold:before { content: '\f039'} /* Ã¯â‚¬Â¹ */
-.octicon-unmute:before { content: '\f0ba'} /* Ã¯â€šÂº */
-.octicon-versions:before { content: '\f064'} /* Ã¯ÂÂ¤ */
-.octicon-watch:before { content: '\f0e0'} /* Ã¯Æ’Â  */
+.octicon-tag:before { content: '\f015'} /* ÃƒÂ¯Ã¢â€šÂ¬Ã¢â‚¬Â¢ */
+.octicon-telescope:before { content: '\f088'} /* ÃƒÂ¯Ã¢â‚¬Å¡Ã‹â€  */
+.octicon-terminal:before { content: '\f0c8'} /* ÃƒÂ¯Ã†â€™Ã‹â€  */
+.octicon-three-bars:before { content: '\f05e'} /* ÃƒÂ¯Ã‚ÂÃ…Â¾ */
+.octicon-thumbsdown:before { content: '\f0db'} /* ÃƒÂ¯Ã†â€™Ã¢â‚¬Âº */
+.octicon-thumbsup:before { content: '\f0da'} /* ÃƒÂ¯Ã†â€™Ã…Â¡ */
+.octicon-tools:before { content: '\f031'} /* ÃƒÂ¯Ã¢â€šÂ¬Ã‚Â± */
+.octicon-trashcan:before { content: '\f0d0'} /* ÃƒÂ¯Ã†â€™Ã‚Â */
+.octicon-triangle-down:before { content: '\f05b'} /* ÃƒÂ¯Ã‚ÂÃ¢â‚¬Âº */
+.octicon-triangle-left:before { content: '\f044'} /* ÃƒÂ¯Ã‚ÂÃ¢â‚¬Å¾ */
+.octicon-triangle-right:before { content: '\f05a'} /* ÃƒÂ¯Ã‚ÂÃ…Â¡ */
+.octicon-triangle-up:before { content: '\f0aa'} /* ÃƒÂ¯Ã¢â‚¬Å¡Ã‚Âª */
+.octicon-unfold:before { content: '\f039'} /* ÃƒÂ¯Ã¢â€šÂ¬Ã‚Â¹ */
+.octicon-unmute:before { content: '\f0ba'} /* ÃƒÂ¯Ã¢â‚¬Å¡Ã‚Âº */
+.octicon-versions:before { content: '\f064'} /* ÃƒÂ¯Ã‚ÂÃ‚Â¤ */
+.octicon-watch:before { content: '\f0e0'} /* ÃƒÂ¯Ã†â€™Ã‚Â  */
 .octicon-remove-close:before,
-.octicon-x:before { content: '\f081'} /* Ã¯â€šÂ */
-.octicon-zap:before { content: '\26A1'} /* Ã¢Å¡Â¡ */
+.octicon-x:before { content: '\f081'} /* ÃƒÂ¯Ã¢â‚¬Å¡Ã‚Â */
+.octicon-zap:before { content: '\26A1'} /* ÃƒÂ¢Ã…Â¡Ã‚Â¡ */
 
 
 
@@ -9357,7 +9357,7 @@ Remove comment to apply this style to date with value equal to 0
 /*
  *	/home/frappe/frappe-bench/apps/frappe/frappe/public/css/c3.min.css
  */
-.c3 svg{font:10px sans-serif;-webkit-tap-highlight-color:transparent}.c3 line,.c3 path{fill:none;stroke:#000;}.c3 text{-webkit-user-select:none;-moz-user-select:none;user-select:none}.c3-bars path,.c3-event-rect,.c3-legend-item-tile,.c3-xgrid-focus,.c3-ygrid{shape-rendering:crispEdges;}.c3-chart-arc path{stroke: #323232;}.c3-chart-arc text{fill:#fff;font-size:13px}.c3-grid line{stroke:#aaa}.c3-grid text{fill:#aaa}.c3-xgrid,.c3-ygrid{stroke-dasharray:3 3}.c3-text.c3-empty{fill:gray;font-size:2em}.c3-line{stroke-width:1px}.c3-circle._expanded_{stroke-width:1px;stroke:#fff}.c3-selected-circle{fill:#fff;stroke-width:2px}.c3-bar{stroke-width:0}.c3-bar._expanded_{fill-opacity:.75}.c3-target.c3-focused{opacity:1}.c3-target.c3-focused path.c3-line,.c3-target.c3-focused path.c3-step{stroke-width:2px}.c3-target.c3-defocused{opacity:.3!important}.c3-region{fill:#4682b4;fill-opacity:.1}.c3-brush .extent{fill-opacity:.1}.c3-legend-item{font-size:12px}.c3-legend-item-hidden{opacity:.15}.c3-legend-background{opacity:.75;fill:#fff;stroke:#d3d3d3;stroke-width:1}.c3-title{font:14px sans-serif}.c3-tooltip-container{z-index:10}.c3-tooltip{border-collapse:collapse;border-spacing:0;background-color:#fff;empty-cells:show;-webkit-box-shadow:7px 7px 12px -9px #777;-moz-box-shadow:7px 7px 12px -9px #777;box-shadow:7px 7px 12px -9px #777;opacity:.9}.c3-tooltip tr{border:1px solid #CCC}.c3-tooltip th{background-color:#aaa;font-size:14px;padding:2px 5px;text-align:left;color:#FFF}.c3-tooltip td{font-size:13px;padding:3px 6px;background-color:#fff;border-left:1px dotted #999}.c3-tooltip td>span{display:inline-block;width:10px;height:10px;margin-right:6px}.c3-tooltip td.value{text-align:right}.c3-area{stroke-width:0;opacity:.2}.c3-chart-arcs-title{dominant-baseline:middle;font-size:1.3em}.c3-chart-arcs .c3-chart-arcs-background{fill:#e0e0e0;stroke:none}.c3-chart-arcs .c3-chart-arcs-gauge-unit{fill:#000;font-size:16px}.c3-chart-arcs .c3-chart-arcs-gauge-max,.c3-chart-arcs .c3-chart-arcs-gauge-min{fill:#777}.c3-chart-arc .c3-gauge-value{fill:#000}
+.c3 svg{font:10px sans-serif;-webkit-tap-highlight-color:transparent;background-color: #f4f7ff;}.c3 line,.c3 path{fill:none;stroke:#000;}.c3 text{-webkit-user-select:none;-moz-user-select:none;user-select:none}.c3-bars path,.c3-event-rect,.c3-legend-item-tile,.c3-xgrid-focus,.c3-ygrid{shape-rendering:crispEdges;}.c3-chart-arc path{stroke: #323232;}.c3-chart-arc text{fill:#fff;font-size:13px}.c3-grid line{stroke:#aaa}.c3-grid text{fill:#aaa}.c3-xgrid,.c3-ygrid{stroke-dasharray:3 3}.c3-text.c3-empty{fill:gray;font-size:2em}.c3-line{stroke-width:1px}.c3-circle._expanded_{stroke-width:1px;stroke:#fff}.c3-selected-circle{fill:#fff;stroke-width:2px}.c3-bar{stroke-width:0}.c3-bar._expanded_{fill-opacity:.75}.c3-target.c3-focused{opacity:1}.c3-target.c3-focused path.c3-line,.c3-target.c3-focused path.c3-step{stroke-width:2px}.c3-target.c3-defocused{opacity:.3!important}.c3-region{fill:#4682b4;fill-opacity:.1}.c3-brush .extent{fill-opacity:.1}.c3-legend-item{font-size:12px}.c3-legend-item-hidden{opacity:.15}.c3-legend-background{opacity:.75;fill:#fff;stroke:#d3d3d3;stroke-width:1}.c3-title{font:14px sans-serif}.c3-tooltip-container{z-index:10}.c3-tooltip{border-collapse:collapse;border-spacing:0;background-color:#fff;empty-cells:show;-webkit-box-shadow:7px 7px 12px -9px #777;-moz-box-shadow:7px 7px 12px -9px #777;box-shadow:7px 7px 12px -9px #777;opacity:.9}.c3-tooltip tr{border:1px solid #CCC}.c3-tooltip th{background-color:#aaa;font-size:14px;padding:2px 5px;text-align:left;color:#FFF}.c3-tooltip td{font-size:13px;padding:3px 6px;background-color:#fff;border-left:1px dotted #999}.c3-tooltip td>span{display:inline-block;width:10px;height:10px;margin-right:6px}.c3-tooltip td.value{text-align:right}.c3-area{stroke-width:0;opacity:.2}.c3-chart-arcs-title{dominant-baseline:middle;font-size:1.3em}.c3-chart-arcs .c3-chart-arcs-background{fill:#e0e0e0;stroke:none}.c3-chart-arcs .c3-chart-arcs-gauge-unit{fill:#000;font-size:16px}.c3-chart-arcs .c3-chart-arcs-gauge-max,.c3-chart-arcs .c3-chart-arcs-gauge-min{fill:#777}.c3-chart-arc .c3-gauge-value{fill:#000}
 
 /*
  *	/home/frappe/frappe-bench/apps/frappe/frappe/public/css/desk.css
@@ -9649,10 +9649,11 @@ a[disabled="disabled"]:hover {
   max-width: 400px;
   min-width: 200px;
   max-height: 200px;
-  background-color: #282828;
+  background-color: #b35555;
   overflow-y: auto;
   position: relative;
-  color: #a7aeb5;
+  color: #ffffff;
+  border-color: rgba(0, 0, 0, 0);
 }
 #alert-container .desk-alert .close {
   color: inherit;
@@ -9817,6 +9818,7 @@ fieldset[disabled] .form-control {
   border-right-width: 0;
   border-radius: 0px;
   border-bottom-color: #5b5d5b;
+  background-color: rgba(0, 0, 0, 0);
 }
 .form-control input {
   padding: 6px 10px 8px;
@@ -10229,7 +10231,7 @@ fieldset[disabled] .form-control {
 }
 #navbar-search {
   width: 300px;
-  background-color: #36414c;
+  background-color: #282828;
 }
 .navbar .navbar-search-icon {
   color: #6C7680;
@@ -13229,11 +13231,12 @@ classes should alter those!
 }
 
 .slick-cell.selected {
-  background-color: #2196f3;
+  background-color: rgba(3, 38, 74, 0.86) !important;
+  color: white !important;
 }
 
 .slick-cell.active {
-  border-color: gray;
+  border-color: #e4e4e4;
   border-style: solid;
 }
 
@@ -13309,7 +13312,7 @@ classes should alter those!
   font-size: 12px;
   border-color: transparent #252424 #0e0e0e transparent !important;
   border-style: solid;
-  color: #c6c7c7;
+  color: #9ea0a0 !important;
   /* margin-top: -1px; */
   background-color: #282828;
 }
@@ -13324,7 +13327,7 @@ classes should alter those!
 .slick-header-column:hover,
 .slick-header-column-active {
   background-image: none;
-  background-color: #d9e7f1;
+  background-color: #282828;
 }
 .slick-row.odd .slick-cell {
   background-color: #141415;
