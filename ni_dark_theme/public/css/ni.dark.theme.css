@@ -9015,197 +9015,197 @@ a .icon-flip-vertical:before {
 }
 .mega-octicon { font-size: 32px; }
 
-.octicon-alert:before { content: '\f02d'} /* ÃƒÂ¯Ã¢â€šÂ¬Ã‚Â­ */
-.octicon-arrow-down:before { content: '\f03f'} /* ÃƒÂ¯Ã¢â€šÂ¬Ã‚Â¿ */
-.octicon-arrow-left:before { content: '\f040'} /* ÃƒÂ¯Ã‚ÂÃ¢â€šÂ¬ */
-.octicon-arrow-right:before { content: '\f03e'} /* ÃƒÂ¯Ã¢â€šÂ¬Ã‚Â¾ */
-.octicon-arrow-small-down:before { content: '\f0a0'} /* ÃƒÂ¯Ã¢â‚¬Å¡Ã‚Â  */
-.octicon-arrow-small-left:before { content: '\f0a1'} /* ÃƒÂ¯Ã¢â‚¬Å¡Ã‚Â¡ */
-.octicon-arrow-small-right:before { content: '\f071'} /* ÃƒÂ¯Ã‚ÂÃ‚Â± */
-.octicon-arrow-small-up:before { content: '\f09f'} /* ÃƒÂ¯Ã¢â‚¬Å¡Ã…Â¸ */
-.octicon-arrow-up:before { content: '\f03d'} /* ÃƒÂ¯Ã¢â€šÂ¬Ã‚Â½ */
+.octicon-alert:before { content: '\f02d'} /* ÃƒÆ’Ã‚Â¯ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â­ */
+.octicon-arrow-down:before { content: '\f03f'} /* ÃƒÆ’Ã‚Â¯ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â¿ */
+.octicon-arrow-left:before { content: '\f040'} /* ÃƒÆ’Ã‚Â¯Ãƒâ€šÃ‚ÂÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ */
+.octicon-arrow-right:before { content: '\f03e'} /* ÃƒÆ’Ã‚Â¯ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â¾ */
+.octicon-arrow-small-down:before { content: '\f0a0'} /* ÃƒÆ’Ã‚Â¯ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â  */
+.octicon-arrow-small-left:before { content: '\f0a1'} /* ÃƒÆ’Ã‚Â¯ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¡ */
+.octicon-arrow-small-right:before { content: '\f071'} /* ÃƒÆ’Ã‚Â¯Ãƒâ€šÃ‚ÂÃƒâ€šÃ‚Â± */
+.octicon-arrow-small-up:before { content: '\f09f'} /* ÃƒÆ’Ã‚Â¯ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€¦Ã‚Â¸ */
+.octicon-arrow-up:before { content: '\f03d'} /* ÃƒÆ’Ã‚Â¯ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â½ */
 .octicon-microscope:before,
-.octicon-beaker:before { content: '\f0dd'} /* ÃƒÂ¯Ã†â€™Ã‚Â */
-.octicon-bell:before { content: '\f0de'} /* ÃƒÂ¯Ã†â€™Ã…Â¾ */
-.octicon-book:before { content: '\f007'} /* ÃƒÂ¯Ã¢â€šÂ¬Ã¢â‚¬Â¡ */
-.octicon-bookmark:before { content: '\f07b'} /* ÃƒÂ¯Ã‚ÂÃ‚Â» */
-.octicon-briefcase:before { content: '\f0d3'} /* ÃƒÂ¯Ã†â€™Ã¢â‚¬Å“ */
-.octicon-broadcast:before { content: '\f048'} /* ÃƒÂ¯Ã‚ÂÃ‹â€  */
-.octicon-browser:before { content: '\f0c5'} /* ÃƒÂ¯Ã†â€™Ã¢â‚¬Â¦ */
-.octicon-bug:before { content: '\f091'} /* ÃƒÂ¯Ã¢â‚¬Å¡Ã¢â‚¬Ëœ */
-.octicon-calendar:before { content: '\f068'} /* ÃƒÂ¯Ã‚ÂÃ‚Â¨ */
-.octicon-check:before { content: '\f03a'} /* ÃƒÂ¯Ã¢â€šÂ¬Ã‚Âº */
-.octicon-checklist:before { content: '\f076'} /* ÃƒÂ¯Ã‚ÂÃ‚Â¶ */
-.octicon-chevron-down:before { content: '\f0a3'} /* ÃƒÂ¯Ã¢â‚¬Å¡Ã‚Â£ */
-.octicon-chevron-left:before { content: '\f0a4'} /* ÃƒÂ¯Ã¢â‚¬Å¡Ã‚Â¤ */
-.octicon-chevron-right:before { content: '\f078'} /* ÃƒÂ¯Ã‚ÂÃ‚Â¸ */
-.octicon-chevron-up:before { content: '\f0a2'} /* ÃƒÂ¯Ã¢â‚¬Å¡Ã‚Â¢ */
-.octicon-circle-slash:before { content: '\f084'} /* ÃƒÂ¯Ã¢â‚¬Å¡Ã¢â‚¬Å¾ */
-.octicon-circuit-board:before { content: '\f0d6'} /* ÃƒÂ¯Ã†â€™Ã¢â‚¬â€œ */
-.octicon-clippy:before { content: '\f035'} /* ÃƒÂ¯Ã¢â€šÂ¬Ã‚Âµ */
-.octicon-clock:before { content: '\f046'} /* ÃƒÂ¯Ã‚ÂÃ¢â‚¬Â  */
-.octicon-cloud-download:before { content: '\f00b'} /* ÃƒÂ¯Ã¢â€šÂ¬Ã¢â‚¬Â¹ */
-.octicon-cloud-upload:before { content: '\f00c'} /* ÃƒÂ¯Ã¢â€šÂ¬Ã…â€™ */
-.octicon-code:before { content: '\f05f'} /* ÃƒÂ¯Ã‚ÂÃ…Â¸ */
-.octicon-color-mode:before { content: '\f065'} /* ÃƒÂ¯Ã‚ÂÃ‚Â¥ */
+.octicon-beaker:before { content: '\f0dd'} /* ÃƒÆ’Ã‚Â¯Ãƒâ€ Ã¢â‚¬â„¢Ãƒâ€šÃ‚Â */
+.octicon-bell:before { content: '\f0de'} /* ÃƒÆ’Ã‚Â¯Ãƒâ€ Ã¢â‚¬â„¢Ãƒâ€¦Ã‚Â¾ */
+.octicon-book:before { content: '\f007'} /* ÃƒÆ’Ã‚Â¯ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¡ */
+.octicon-bookmark:before { content: '\f07b'} /* ÃƒÆ’Ã‚Â¯Ãƒâ€šÃ‚ÂÃƒâ€šÃ‚Â» */
+.octicon-briefcase:before { content: '\f0d3'} /* ÃƒÆ’Ã‚Â¯Ãƒâ€ Ã¢â‚¬â„¢ÃƒÂ¢Ã¢â€šÂ¬Ã…â€œ */
+.octicon-broadcast:before { content: '\f048'} /* ÃƒÆ’Ã‚Â¯Ãƒâ€šÃ‚ÂÃƒâ€¹Ã¢â‚¬Â  */
+.octicon-browser:before { content: '\f0c5'} /* ÃƒÆ’Ã‚Â¯Ãƒâ€ Ã¢â‚¬â„¢ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¦ */
+.octicon-bug:before { content: '\f091'} /* ÃƒÆ’Ã‚Â¯ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÂ¢Ã¢â€šÂ¬Ã‹Å“ */
+.octicon-calendar:before { content: '\f068'} /* ÃƒÆ’Ã‚Â¯Ãƒâ€šÃ‚ÂÃƒâ€šÃ‚Â¨ */
+.octicon-check:before { content: '\f03a'} /* ÃƒÆ’Ã‚Â¯ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Âº */
+.octicon-checklist:before { content: '\f076'} /* ÃƒÆ’Ã‚Â¯Ãƒâ€šÃ‚ÂÃƒâ€šÃ‚Â¶ */
+.octicon-chevron-down:before { content: '\f0a3'} /* ÃƒÆ’Ã‚Â¯ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â£ */
+.octicon-chevron-left:before { content: '\f0a4'} /* ÃƒÆ’Ã‚Â¯ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¤ */
+.octicon-chevron-right:before { content: '\f078'} /* ÃƒÆ’Ã‚Â¯Ãƒâ€šÃ‚ÂÃƒâ€šÃ‚Â¸ */
+.octicon-chevron-up:before { content: '\f0a2'} /* ÃƒÆ’Ã‚Â¯ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¢ */
+.octicon-circle-slash:before { content: '\f084'} /* ÃƒÆ’Ã‚Â¯ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¾ */
+.octicon-circuit-board:before { content: '\f0d6'} /* ÃƒÆ’Ã‚Â¯Ãƒâ€ Ã¢â‚¬â„¢ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Å“ */
+.octicon-clippy:before { content: '\f035'} /* ÃƒÆ’Ã‚Â¯ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Âµ */
+.octicon-clock:before { content: '\f046'} /* ÃƒÆ’Ã‚Â¯Ãƒâ€šÃ‚ÂÃƒÂ¢Ã¢â€šÂ¬Ã‚Â  */
+.octicon-cloud-download:before { content: '\f00b'} /* ÃƒÆ’Ã‚Â¯ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¹ */
+.octicon-cloud-upload:before { content: '\f00c'} /* ÃƒÆ’Ã‚Â¯ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã¢â‚¬â„¢ */
+.octicon-code:before { content: '\f05f'} /* ÃƒÆ’Ã‚Â¯Ãƒâ€šÃ‚ÂÃƒâ€¦Ã‚Â¸ */
+.octicon-color-mode:before { content: '\f065'} /* ÃƒÆ’Ã‚Â¯Ãƒâ€šÃ‚ÂÃƒâ€šÃ‚Â¥ */
 .octicon-comment-add:before,
-.octicon-comment:before { content: '\f02b'} /* ÃƒÂ¯Ã¢â€šÂ¬Ã‚Â« */
-.octicon-comment-discussion:before { content: '\f04f'} /* ÃƒÂ¯Ã‚ÂÃ‚Â */
-.octicon-credit-card:before { content: '\f045'} /* ÃƒÂ¯Ã‚ÂÃ¢â‚¬Â¦ */
-.octicon-dash:before { content: '\f0ca'} /* ÃƒÂ¯Ã†â€™Ã…Â  */
-.octicon-dashboard:before { content: '\f07d'} /* ÃƒÂ¯Ã‚ÂÃ‚Â½ */
-.octicon-database:before { content: '\f096'} /* ÃƒÂ¯Ã¢â‚¬Å¡Ã¢â‚¬â€œ */
+.octicon-comment:before { content: '\f02b'} /* ÃƒÆ’Ã‚Â¯ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â« */
+.octicon-comment-discussion:before { content: '\f04f'} /* ÃƒÆ’Ã‚Â¯Ãƒâ€šÃ‚ÂÃƒâ€šÃ‚Â */
+.octicon-credit-card:before { content: '\f045'} /* ÃƒÆ’Ã‚Â¯Ãƒâ€šÃ‚ÂÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¦ */
+.octicon-dash:before { content: '\f0ca'} /* ÃƒÆ’Ã‚Â¯Ãƒâ€ Ã¢â‚¬â„¢Ãƒâ€¦Ã‚Â  */
+.octicon-dashboard:before { content: '\f07d'} /* ÃƒÆ’Ã‚Â¯Ãƒâ€šÃ‚ÂÃƒâ€šÃ‚Â½ */
+.octicon-database:before { content: '\f096'} /* ÃƒÆ’Ã‚Â¯ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Å“ */
 .octicon-clone:before,
-.octicon-desktop-download:before { content: '\f0dc'} /* ÃƒÂ¯Ã†â€™Ã…â€œ */
-.octicon-device-camera:before { content: '\f056'} /* ÃƒÂ¯Ã‚ÂÃ¢â‚¬â€œ */
-.octicon-device-camera-video:before { content: '\f057'} /* ÃƒÂ¯Ã‚ÂÃ¢â‚¬â€ */
-.octicon-device-desktop:before { content: '\f27c'} /* ÃƒÂ¯Ã¢â‚¬Â°Ã‚Â¼ */
-.octicon-device-mobile:before { content: '\f038'} /* ÃƒÂ¯Ã¢â€šÂ¬Ã‚Â¸ */
-.octicon-diff:before { content: '\f04d'} /* ÃƒÂ¯Ã‚ÂÃ‚Â */
-.octicon-diff-added:before { content: '\f06b'} /* ÃƒÂ¯Ã‚ÂÃ‚Â« */
-.octicon-diff-ignored:before { content: '\f099'} /* ÃƒÂ¯Ã¢â‚¬Å¡Ã¢â€žÂ¢ */
-.octicon-diff-modified:before { content: '\f06d'} /* ÃƒÂ¯Ã‚ÂÃ‚Â­ */
-.octicon-diff-removed:before { content: '\f06c'} /* ÃƒÂ¯Ã‚ÂÃ‚Â¬ */
-.octicon-diff-renamed:before { content: '\f06e'} /* ÃƒÂ¯Ã‚ÂÃ‚Â® */
-.octicon-ellipsis:before { content: '\f09a'} /* ÃƒÂ¯Ã¢â‚¬Å¡Ã…Â¡ */
+.octicon-desktop-download:before { content: '\f0dc'} /* ÃƒÆ’Ã‚Â¯Ãƒâ€ Ã¢â‚¬â„¢Ãƒâ€¦Ã¢â‚¬Å“ */
+.octicon-device-camera:before { content: '\f056'} /* ÃƒÆ’Ã‚Â¯Ãƒâ€šÃ‚ÂÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Å“ */
+.octicon-device-camera-video:before { content: '\f057'} /* ÃƒÆ’Ã‚Â¯Ãƒâ€šÃ‚ÂÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â */
+.octicon-device-desktop:before { content: '\f27c'} /* ÃƒÆ’Ã‚Â¯ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â°Ãƒâ€šÃ‚Â¼ */
+.octicon-device-mobile:before { content: '\f038'} /* ÃƒÆ’Ã‚Â¯ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â¸ */
+.octicon-diff:before { content: '\f04d'} /* ÃƒÆ’Ã‚Â¯Ãƒâ€šÃ‚ÂÃƒâ€šÃ‚Â */
+.octicon-diff-added:before { content: '\f06b'} /* ÃƒÆ’Ã‚Â¯Ãƒâ€šÃ‚ÂÃƒâ€šÃ‚Â« */
+.octicon-diff-ignored:before { content: '\f099'} /* ÃƒÆ’Ã‚Â¯ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢ */
+.octicon-diff-modified:before { content: '\f06d'} /* ÃƒÆ’Ã‚Â¯Ãƒâ€šÃ‚ÂÃƒâ€šÃ‚Â­ */
+.octicon-diff-removed:before { content: '\f06c'} /* ÃƒÆ’Ã‚Â¯Ãƒâ€šÃ‚ÂÃƒâ€šÃ‚Â¬ */
+.octicon-diff-renamed:before { content: '\f06e'} /* ÃƒÆ’Ã‚Â¯Ãƒâ€šÃ‚ÂÃƒâ€šÃ‚Â® */
+.octicon-ellipsis:before { content: '\f09a'} /* ÃƒÆ’Ã‚Â¯ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€¦Ã‚Â¡ */
 .octicon-eye-unwatch:before,
 .octicon-eye-watch:before,
-.octicon-eye:before { content: '\f04e'} /* ÃƒÂ¯Ã‚ÂÃ…Â½ */
-.octicon-file-binary:before { content: '\f094'} /* ÃƒÂ¯Ã¢â‚¬Å¡Ã¢â‚¬Â */
-.octicon-file-code:before { content: '\f010'} /* ÃƒÂ¯Ã¢â€šÂ¬Ã‚Â */
-.octicon-file-directory:before { content: '\f016'} /* ÃƒÂ¯Ã¢â€šÂ¬Ã¢â‚¬â€œ */
-.octicon-file-media:before { content: '\f012'} /* ÃƒÂ¯Ã¢â€šÂ¬Ã¢â‚¬â„¢ */
-.octicon-file-pdf:before { content: '\f014'} /* ÃƒÂ¯Ã¢â€šÂ¬Ã¢â‚¬Â */
-.octicon-file-submodule:before { content: '\f017'} /* ÃƒÂ¯Ã¢â€šÂ¬Ã¢â‚¬â€ */
-.octicon-file-symlink-directory:before { content: '\f0b1'} /* ÃƒÂ¯Ã¢â‚¬Å¡Ã‚Â± */
-.octicon-file-symlink-file:before { content: '\f0b0'} /* ÃƒÂ¯Ã¢â‚¬Å¡Ã‚Â° */
-.octicon-file-text:before { content: '\f011'} /* ÃƒÂ¯Ã¢â€šÂ¬Ã¢â‚¬Ëœ */
-.octicon-file-zip:before { content: '\f013'} /* ÃƒÂ¯Ã¢â€šÂ¬Ã¢â‚¬Å“ */
-.octicon-flame:before { content: '\f0d2'} /* ÃƒÂ¯Ã†â€™Ã¢â‚¬â„¢ */
-.octicon-fold:before { content: '\f0cc'} /* ÃƒÂ¯Ã†â€™Ã…â€™ */
-.octicon-gear:before { content: '\f02f'} /* ÃƒÂ¯Ã¢â€šÂ¬Ã‚Â¯ */
-.octicon-gift:before { content: '\f042'} /* ÃƒÂ¯Ã‚ÂÃ¢â‚¬Å¡ */
-.octicon-gist:before { content: '\f00e'} /* ÃƒÂ¯Ã¢â€šÂ¬Ã…Â½ */
-.octicon-gist-secret:before { content: '\f08c'} /* ÃƒÂ¯Ã¢â‚¬Å¡Ã…â€™ */
+.octicon-eye:before { content: '\f04e'} /* ÃƒÆ’Ã‚Â¯Ãƒâ€šÃ‚ÂÃƒâ€¦Ã‚Â½ */
+.octicon-file-binary:before { content: '\f094'} /* ÃƒÆ’Ã‚Â¯ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â */
+.octicon-file-code:before { content: '\f010'} /* ÃƒÆ’Ã‚Â¯ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â */
+.octicon-file-directory:before { content: '\f016'} /* ÃƒÆ’Ã‚Â¯ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Å“ */
+.octicon-file-media:before { content: '\f012'} /* ÃƒÆ’Ã‚Â¯ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ */
+.octicon-file-pdf:before { content: '\f014'} /* ÃƒÆ’Ã‚Â¯ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â */
+.octicon-file-submodule:before { content: '\f017'} /* ÃƒÆ’Ã‚Â¯ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â */
+.octicon-file-symlink-directory:before { content: '\f0b1'} /* ÃƒÆ’Ã‚Â¯ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â± */
+.octicon-file-symlink-file:before { content: '\f0b0'} /* ÃƒÆ’Ã‚Â¯ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â° */
+.octicon-file-text:before { content: '\f011'} /* ÃƒÆ’Ã‚Â¯ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‹Å“ */
+.octicon-file-zip:before { content: '\f013'} /* ÃƒÆ’Ã‚Â¯ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã…â€œ */
+.octicon-flame:before { content: '\f0d2'} /* ÃƒÆ’Ã‚Â¯Ãƒâ€ Ã¢â‚¬â„¢ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ */
+.octicon-fold:before { content: '\f0cc'} /* ÃƒÆ’Ã‚Â¯Ãƒâ€ Ã¢â‚¬â„¢Ãƒâ€¦Ã¢â‚¬â„¢ */
+.octicon-gear:before { content: '\f02f'} /* ÃƒÆ’Ã‚Â¯ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â¯ */
+.octicon-gift:before { content: '\f042'} /* ÃƒÆ’Ã‚Â¯Ãƒâ€šÃ‚ÂÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ */
+.octicon-gist:before { content: '\f00e'} /* ÃƒÆ’Ã‚Â¯ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â½ */
+.octicon-gist-secret:before { content: '\f08c'} /* ÃƒÆ’Ã‚Â¯ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€¦Ã¢â‚¬â„¢ */
 .octicon-git-branch-create:before,
 .octicon-git-branch-delete:before,
-.octicon-git-branch:before { content: '\f020'} /* ÃƒÂ¯Ã¢â€šÂ¬Ã‚Â  */
-.octicon-git-commit:before { content: '\f01f'} /* ÃƒÂ¯Ã¢â€šÂ¬Ã…Â¸ */
-.octicon-git-compare:before { content: '\f0ac'} /* ÃƒÂ¯Ã¢â‚¬Å¡Ã‚Â¬ */
-.octicon-git-merge:before { content: '\f023'} /* ÃƒÂ¯Ã¢â€šÂ¬Ã‚Â£ */
+.octicon-git-branch:before { content: '\f020'} /* ÃƒÆ’Ã‚Â¯ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â  */
+.octicon-git-commit:before { content: '\f01f'} /* ÃƒÆ’Ã‚Â¯ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¸ */
+.octicon-git-compare:before { content: '\f0ac'} /* ÃƒÆ’Ã‚Â¯ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ */
+.octicon-git-merge:before { content: '\f023'} /* ÃƒÆ’Ã‚Â¯ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â£ */
 .octicon-git-pull-request-abandoned:before,
-.octicon-git-pull-request:before { content: '\f009'} /* ÃƒÂ¯Ã¢â€šÂ¬Ã¢â‚¬Â° */
-.octicon-globe:before { content: '\f0b6'} /* ÃƒÂ¯Ã¢â‚¬Å¡Ã‚Â¶ */
-.octicon-graph:before { content: '\f043'} /* ÃƒÂ¯Ã‚ÂÃ†â€™ */
-.octicon-heart:before { content: '\2665'} /* ÃƒÂ¢Ã¢â€žÂ¢Ã‚Â¥ */
-.octicon-history:before { content: '\f07e'} /* ÃƒÂ¯Ã‚ÂÃ‚Â¾ */
-.octicon-home:before { content: '\f08d'} /* ÃƒÂ¯Ã¢â‚¬Å¡Ã‚Â */
-.octicon-horizontal-rule:before { content: '\f070'} /* ÃƒÂ¯Ã‚ÂÃ‚Â° */
-.octicon-hubot:before { content: '\f09d'} /* ÃƒÂ¯Ã¢â‚¬Å¡Ã‚Â */
-.octicon-inbox:before { content: '\f0cf'} /* ÃƒÂ¯Ã†â€™Ã‚Â */
-.octicon-info:before { content: '\f059'} /* ÃƒÂ¯Ã‚ÂÃ¢â€žÂ¢ */
-.octicon-issue-closed:before { content: '\f028'} /* ÃƒÂ¯Ã¢â€šÂ¬Ã‚Â¨ */
-.octicon-issue-opened:before { content: '\f026'} /* ÃƒÂ¯Ã¢â€šÂ¬Ã‚Â¦ */
-.octicon-issue-reopened:before { content: '\f027'} /* ÃƒÂ¯Ã¢â€šÂ¬Ã‚Â§ */
-.octicon-jersey:before { content: '\f019'} /* ÃƒÂ¯Ã¢â€šÂ¬Ã¢â€žÂ¢ */
-.octicon-key:before { content: '\f049'} /* ÃƒÂ¯Ã‚ÂÃ¢â‚¬Â° */
-.octicon-keyboard:before { content: '\f00d'} /* ÃƒÂ¯Ã¢â€šÂ¬Ã‚Â */
-.octicon-law:before { content: '\f0d8'} /* ÃƒÂ¯Ã†â€™Ã‹Å“ */
-.octicon-light-bulb:before { content: '\f000'} /* ÃƒÂ¯Ã¢â€šÂ¬Ã¢â€šÂ¬ */
-.octicon-link:before { content: '\f05c'} /* ÃƒÂ¯Ã‚ÂÃ…â€œ */
-.octicon-link-external:before { content: '\f07f'} /* ÃƒÂ¯Ã‚ÂÃ‚Â¿ */
-.octicon-list-ordered:before { content: '\f062'} /* ÃƒÂ¯Ã‚ÂÃ‚Â¢ */
-.octicon-list-unordered:before { content: '\f061'} /* ÃƒÂ¯Ã‚ÂÃ‚Â¡ */
-.octicon-location:before { content: '\f060'} /* ÃƒÂ¯Ã‚ÂÃ‚Â  */
+.octicon-git-pull-request:before { content: '\f009'} /* ÃƒÆ’Ã‚Â¯ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â° */
+.octicon-globe:before { content: '\f0b6'} /* ÃƒÆ’Ã‚Â¯ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¶ */
+.octicon-graph:before { content: '\f043'} /* ÃƒÆ’Ã‚Â¯Ãƒâ€šÃ‚ÂÃƒâ€ Ã¢â‚¬â„¢ */
+.octicon-heart:before { content: '\2665'} /* ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢Ãƒâ€šÃ‚Â¥ */
+.octicon-history:before { content: '\f07e'} /* ÃƒÆ’Ã‚Â¯Ãƒâ€šÃ‚ÂÃƒâ€šÃ‚Â¾ */
+.octicon-home:before { content: '\f08d'} /* ÃƒÆ’Ã‚Â¯ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â */
+.octicon-horizontal-rule:before { content: '\f070'} /* ÃƒÆ’Ã‚Â¯Ãƒâ€šÃ‚ÂÃƒâ€šÃ‚Â° */
+.octicon-hubot:before { content: '\f09d'} /* ÃƒÆ’Ã‚Â¯ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â */
+.octicon-inbox:before { content: '\f0cf'} /* ÃƒÆ’Ã‚Â¯Ãƒâ€ Ã¢â‚¬â„¢Ãƒâ€šÃ‚Â */
+.octicon-info:before { content: '\f059'} /* ÃƒÆ’Ã‚Â¯Ãƒâ€šÃ‚ÂÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢ */
+.octicon-issue-closed:before { content: '\f028'} /* ÃƒÆ’Ã‚Â¯ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â¨ */
+.octicon-issue-opened:before { content: '\f026'} /* ÃƒÆ’Ã‚Â¯ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â¦ */
+.octicon-issue-reopened:before { content: '\f027'} /* ÃƒÆ’Ã‚Â¯ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â§ */
+.octicon-jersey:before { content: '\f019'} /* ÃƒÆ’Ã‚Â¯ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢ */
+.octicon-key:before { content: '\f049'} /* ÃƒÆ’Ã‚Â¯Ãƒâ€šÃ‚ÂÃƒÂ¢Ã¢â€šÂ¬Ã‚Â° */
+.octicon-keyboard:before { content: '\f00d'} /* ÃƒÆ’Ã‚Â¯ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â */
+.octicon-law:before { content: '\f0d8'} /* ÃƒÆ’Ã‚Â¯Ãƒâ€ Ã¢â‚¬â„¢Ãƒâ€¹Ã…â€œ */
+.octicon-light-bulb:before { content: '\f000'} /* ÃƒÆ’Ã‚Â¯ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ */
+.octicon-link:before { content: '\f05c'} /* ÃƒÆ’Ã‚Â¯Ãƒâ€šÃ‚ÂÃƒâ€¦Ã¢â‚¬Å“ */
+.octicon-link-external:before { content: '\f07f'} /* ÃƒÆ’Ã‚Â¯Ãƒâ€šÃ‚ÂÃƒâ€šÃ‚Â¿ */
+.octicon-list-ordered:before { content: '\f062'} /* ÃƒÆ’Ã‚Â¯Ãƒâ€šÃ‚ÂÃƒâ€šÃ‚Â¢ */
+.octicon-list-unordered:before { content: '\f061'} /* ÃƒÆ’Ã‚Â¯Ãƒâ€šÃ‚ÂÃƒâ€šÃ‚Â¡ */
+.octicon-location:before { content: '\f060'} /* ÃƒÆ’Ã‚Â¯Ãƒâ€šÃ‚ÂÃƒâ€šÃ‚Â  */
 .octicon-gist-private:before,
 .octicon-mirror-private:before,
 .octicon-git-fork-private:before,
-.octicon-lock:before { content: '\f06a'} /* ÃƒÂ¯Ã‚ÂÃ‚Âª */
-.octicon-logo-github:before { content: '\f092'} /* ÃƒÂ¯Ã¢â‚¬Å¡Ã¢â‚¬â„¢ */
-.octicon-mail:before { content: '\f03b'} /* ÃƒÂ¯Ã¢â€šÂ¬Ã‚Â» */
-.octicon-mail-read:before { content: '\f03c'} /* ÃƒÂ¯Ã¢â€šÂ¬Ã‚Â¼ */
-.octicon-mail-reply:before { content: '\f051'} /* ÃƒÂ¯Ã‚ÂÃ¢â‚¬Ëœ */
-.octicon-mark-github:before { content: '\f00a'} /* ÃƒÂ¯Ã¢â€šÂ¬Ã…Â  */
-.octicon-markdown:before { content: '\f0c9'} /* ÃƒÂ¯Ã†â€™Ã¢â‚¬Â° */
-.octicon-megaphone:before { content: '\f077'} /* ÃƒÂ¯Ã‚ÂÃ‚Â· */
-.octicon-mention:before { content: '\f0be'} /* ÃƒÂ¯Ã¢â‚¬Å¡Ã‚Â¾ */
-.octicon-milestone:before { content: '\f075'} /* ÃƒÂ¯Ã‚ÂÃ‚Âµ */
+.octicon-lock:before { content: '\f06a'} /* ÃƒÆ’Ã‚Â¯Ãƒâ€šÃ‚ÂÃƒâ€šÃ‚Âª */
+.octicon-logo-github:before { content: '\f092'} /* ÃƒÆ’Ã‚Â¯ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ */
+.octicon-mail:before { content: '\f03b'} /* ÃƒÆ’Ã‚Â¯ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â» */
+.octicon-mail-read:before { content: '\f03c'} /* ÃƒÆ’Ã‚Â¯ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â¼ */
+.octicon-mail-reply:before { content: '\f051'} /* ÃƒÆ’Ã‚Â¯Ãƒâ€šÃ‚ÂÃƒÂ¢Ã¢â€šÂ¬Ã‹Å“ */
+.octicon-mark-github:before { content: '\f00a'} /* ÃƒÆ’Ã‚Â¯ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â  */
+.octicon-markdown:before { content: '\f0c9'} /* ÃƒÆ’Ã‚Â¯Ãƒâ€ Ã¢â‚¬â„¢ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â° */
+.octicon-megaphone:before { content: '\f077'} /* ÃƒÆ’Ã‚Â¯Ãƒâ€šÃ‚ÂÃƒâ€šÃ‚Â· */
+.octicon-mention:before { content: '\f0be'} /* ÃƒÆ’Ã‚Â¯ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¾ */
+.octicon-milestone:before { content: '\f075'} /* ÃƒÆ’Ã‚Â¯Ãƒâ€šÃ‚ÂÃƒâ€šÃ‚Âµ */
 .octicon-mirror-public:before,
-.octicon-mirror:before { content: '\f024'} /* ÃƒÂ¯Ã¢â€šÂ¬Ã‚Â¤ */
-.octicon-mortar-board:before { content: '\f0d7'} /* ÃƒÂ¯Ã†â€™Ã¢â‚¬â€ */
-.octicon-mute:before { content: '\f080'} /* ÃƒÂ¯Ã¢â‚¬Å¡Ã¢â€šÂ¬ */
-.octicon-no-newline:before { content: '\f09c'} /* ÃƒÂ¯Ã¢â‚¬Å¡Ã…â€œ */
-.octicon-octoface:before { content: '\f008'} /* ÃƒÂ¯Ã¢â€šÂ¬Ã‹â€  */
-.octicon-organization:before { content: '\f037'} /* ÃƒÂ¯Ã¢â€šÂ¬Ã‚Â· */
-.octicon-package:before { content: '\f0c4'} /* ÃƒÂ¯Ã†â€™Ã¢â‚¬Å¾ */
-.octicon-paintcan:before { content: '\f0d1'} /* ÃƒÂ¯Ã†â€™Ã¢â‚¬Ëœ */
-.octicon-pencil:before { content: '\f058'} /* ÃƒÂ¯Ã‚ÂÃ‹Å“ */
+.octicon-mirror:before { content: '\f024'} /* ÃƒÆ’Ã‚Â¯ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â¤ */
+.octicon-mortar-board:before { content: '\f0d7'} /* ÃƒÆ’Ã‚Â¯Ãƒâ€ Ã¢â‚¬â„¢ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â */
+.octicon-mute:before { content: '\f080'} /* ÃƒÆ’Ã‚Â¯ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ */
+.octicon-no-newline:before { content: '\f09c'} /* ÃƒÆ’Ã‚Â¯ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€¦Ã¢â‚¬Å“ */
+.octicon-octoface:before { content: '\f008'} /* ÃƒÆ’Ã‚Â¯ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¹Ã¢â‚¬Â  */
+.octicon-organization:before { content: '\f037'} /* ÃƒÆ’Ã‚Â¯ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â· */
+.octicon-package:before { content: '\f0c4'} /* ÃƒÆ’Ã‚Â¯Ãƒâ€ Ã¢â‚¬â„¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¾ */
+.octicon-paintcan:before { content: '\f0d1'} /* ÃƒÆ’Ã‚Â¯Ãƒâ€ Ã¢â‚¬â„¢ÃƒÂ¢Ã¢â€šÂ¬Ã‹Å“ */
+.octicon-pencil:before { content: '\f058'} /* ÃƒÆ’Ã‚Â¯Ãƒâ€šÃ‚ÂÃƒâ€¹Ã…â€œ */
 .octicon-person-add:before,
 .octicon-person-follow:before,
-.octicon-person:before { content: '\f018'} /* ÃƒÂ¯Ã¢â€šÂ¬Ã‹Å“ */
-.octicon-pin:before { content: '\f041'} /* ÃƒÂ¯Ã‚ÂÃ‚Â */
-.octicon-plug:before { content: '\f0d4'} /* ÃƒÂ¯Ã†â€™Ã¢â‚¬Â */
+.octicon-person:before { content: '\f018'} /* ÃƒÆ’Ã‚Â¯ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¹Ã…â€œ */
+.octicon-pin:before { content: '\f041'} /* ÃƒÆ’Ã‚Â¯Ãƒâ€šÃ‚ÂÃƒâ€šÃ‚Â */
+.octicon-plug:before { content: '\f0d4'} /* ÃƒÆ’Ã‚Â¯Ãƒâ€ Ã¢â‚¬â„¢ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â */
 .octicon-repo-create:before,
 .octicon-gist-new:before,
 .octicon-file-directory-create:before,
 .octicon-file-add:before,
-.octicon-plus:before { content: '\f05d'} /* ÃƒÂ¯Ã‚ÂÃ‚Â */
-.octicon-primitive-dot:before { content: '\f052'} /* ÃƒÂ¯Ã‚ÂÃ¢â‚¬â„¢ */
-.octicon-primitive-square:before { content: '\f053'} /* ÃƒÂ¯Ã‚ÂÃ¢â‚¬Å“ */
-.octicon-pulse:before { content: '\f085'} /* ÃƒÂ¯Ã¢â‚¬Å¡Ã¢â‚¬Â¦ */
-.octicon-question:before { content: '\f02c'} /* ÃƒÂ¯Ã¢â€šÂ¬Ã‚Â¬ */
-.octicon-quote:before { content: '\f063'} /* ÃƒÂ¯Ã‚ÂÃ‚Â£ */
-.octicon-radio-tower:before { content: '\f030'} /* ÃƒÂ¯Ã¢â€šÂ¬Ã‚Â° */
+.octicon-plus:before { content: '\f05d'} /* ÃƒÆ’Ã‚Â¯Ãƒâ€šÃ‚ÂÃƒâ€šÃ‚Â */
+.octicon-primitive-dot:before { content: '\f052'} /* ÃƒÆ’Ã‚Â¯Ãƒâ€šÃ‚ÂÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ */
+.octicon-primitive-square:before { content: '\f053'} /* ÃƒÆ’Ã‚Â¯Ãƒâ€šÃ‚ÂÃƒÂ¢Ã¢â€šÂ¬Ã…â€œ */
+.octicon-pulse:before { content: '\f085'} /* ÃƒÆ’Ã‚Â¯ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¦ */
+.octicon-question:before { content: '\f02c'} /* ÃƒÆ’Ã‚Â¯ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â¬ */
+.octicon-quote:before { content: '\f063'} /* ÃƒÆ’Ã‚Â¯Ãƒâ€šÃ‚ÂÃƒâ€šÃ‚Â£ */
+.octicon-radio-tower:before { content: '\f030'} /* ÃƒÆ’Ã‚Â¯ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â° */
 .octicon-repo-delete:before,
-.octicon-repo:before { content: '\f001'} /* ÃƒÂ¯Ã¢â€šÂ¬Ã‚Â */
-.octicon-repo-clone:before { content: '\f04c'} /* ÃƒÂ¯Ã‚ÂÃ…â€™ */
-.octicon-repo-force-push:before { content: '\f04a'} /* ÃƒÂ¯Ã‚ÂÃ…Â  */
+.octicon-repo:before { content: '\f001'} /* ÃƒÆ’Ã‚Â¯ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â */
+.octicon-repo-clone:before { content: '\f04c'} /* ÃƒÆ’Ã‚Â¯Ãƒâ€šÃ‚ÂÃƒâ€¦Ã¢â‚¬â„¢ */
+.octicon-repo-force-push:before { content: '\f04a'} /* ÃƒÆ’Ã‚Â¯Ãƒâ€šÃ‚ÂÃƒâ€¦Ã‚Â  */
 .octicon-gist-fork:before,
-.octicon-repo-forked:before { content: '\f002'} /* ÃƒÂ¯Ã¢â€šÂ¬Ã¢â‚¬Å¡ */
-.octicon-repo-pull:before { content: '\f006'} /* ÃƒÂ¯Ã¢â€šÂ¬Ã¢â‚¬Â  */
-.octicon-repo-push:before { content: '\f005'} /* ÃƒÂ¯Ã¢â€šÂ¬Ã¢â‚¬Â¦ */
-.octicon-rocket:before { content: '\f033'} /* ÃƒÂ¯Ã¢â€šÂ¬Ã‚Â³ */
-.octicon-rss:before { content: '\f034'} /* ÃƒÂ¯Ã¢â€šÂ¬Ã‚Â´ */
-.octicon-ruby:before { content: '\f047'} /* ÃƒÂ¯Ã‚ÂÃ¢â‚¬Â¡ */
-.octicon-screen-full:before { content: '\f066'} /* ÃƒÂ¯Ã‚ÂÃ‚Â¦ */
-.octicon-screen-normal:before { content: '\f067'} /* ÃƒÂ¯Ã‚ÂÃ‚Â§ */
+.octicon-repo-forked:before { content: '\f002'} /* ÃƒÆ’Ã‚Â¯ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ */
+.octicon-repo-pull:before { content: '\f006'} /* ÃƒÆ’Ã‚Â¯ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â  */
+.octicon-repo-push:before { content: '\f005'} /* ÃƒÆ’Ã‚Â¯ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¦ */
+.octicon-rocket:before { content: '\f033'} /* ÃƒÆ’Ã‚Â¯ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â³ */
+.octicon-rss:before { content: '\f034'} /* ÃƒÆ’Ã‚Â¯ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â´ */
+.octicon-ruby:before { content: '\f047'} /* ÃƒÆ’Ã‚Â¯Ãƒâ€šÃ‚ÂÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¡ */
+.octicon-screen-full:before { content: '\f066'} /* ÃƒÆ’Ã‚Â¯Ãƒâ€šÃ‚ÂÃƒâ€šÃ‚Â¦ */
+.octicon-screen-normal:before { content: '\f067'} /* ÃƒÆ’Ã‚Â¯Ãƒâ€šÃ‚ÂÃƒâ€šÃ‚Â§ */
 .octicon-search-save:before,
-.octicon-search:before { content: '\f02e'} /* ÃƒÂ¯Ã¢â€šÂ¬Ã‚Â® */
-.octicon-server:before { content: '\f097'} /* ÃƒÂ¯Ã¢â‚¬Å¡Ã¢â‚¬â€ */
-.octicon-settings:before { content: '\f07c'} /* ÃƒÂ¯Ã‚ÂÃ‚Â¼ */
-.octicon-shield:before { content: '\f0e1'} /* ÃƒÂ¯Ã†â€™Ã‚Â¡ */
+.octicon-search:before { content: '\f02e'} /* ÃƒÆ’Ã‚Â¯ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â® */
+.octicon-server:before { content: '\f097'} /* ÃƒÆ’Ã‚Â¯ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â */
+.octicon-settings:before { content: '\f07c'} /* ÃƒÆ’Ã‚Â¯Ãƒâ€šÃ‚ÂÃƒâ€šÃ‚Â¼ */
+.octicon-shield:before { content: '\f0e1'} /* ÃƒÆ’Ã‚Â¯Ãƒâ€ Ã¢â‚¬â„¢Ãƒâ€šÃ‚Â¡ */
 .octicon-log-in:before,
-.octicon-sign-in:before { content: '\f036'} /* ÃƒÂ¯Ã¢â€šÂ¬Ã‚Â¶ */
+.octicon-sign-in:before { content: '\f036'} /* ÃƒÆ’Ã‚Â¯ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â¶ */
 .octicon-log-out:before,
-.octicon-sign-out:before { content: '\f032'} /* ÃƒÂ¯Ã¢â€šÂ¬Ã‚Â² */
-.octicon-squirrel:before { content: '\f0b2'} /* ÃƒÂ¯Ã¢â‚¬Å¡Ã‚Â² */
+.octicon-sign-out:before { content: '\f032'} /* ÃƒÆ’Ã‚Â¯ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â² */
+.octicon-squirrel:before { content: '\f0b2'} /* ÃƒÆ’Ã‚Â¯ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â² */
 .octicon-star-add:before,
 .octicon-star-delete:before,
-.octicon-star:before { content: '\f02a'} /* ÃƒÂ¯Ã¢â€šÂ¬Ã‚Âª */
-.octicon-stop:before { content: '\f08f'} /* ÃƒÂ¯Ã¢â‚¬Å¡Ã‚Â */
+.octicon-star:before { content: '\f02a'} /* ÃƒÆ’Ã‚Â¯ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Âª */
+.octicon-stop:before { content: '\f08f'} /* ÃƒÆ’Ã‚Â¯ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â */
 .octicon-repo-sync:before,
-.octicon-sync:before { content: '\f087'} /* ÃƒÂ¯Ã¢â‚¬Å¡Ã¢â‚¬Â¡ */
+.octicon-sync:before { content: '\f087'} /* ÃƒÆ’Ã‚Â¯ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¡ */
 .octicon-tag-remove:before,
 .octicon-tag-add:before,
-.octicon-tag:before { content: '\f015'} /* ÃƒÂ¯Ã¢â€šÂ¬Ã¢â‚¬Â¢ */
-.octicon-telescope:before { content: '\f088'} /* ÃƒÂ¯Ã¢â‚¬Å¡Ã‹â€  */
-.octicon-terminal:before { content: '\f0c8'} /* ÃƒÂ¯Ã†â€™Ã‹â€  */
-.octicon-three-bars:before { content: '\f05e'} /* ÃƒÂ¯Ã‚ÂÃ…Â¾ */
-.octicon-thumbsdown:before { content: '\f0db'} /* ÃƒÂ¯Ã†â€™Ã¢â‚¬Âº */
-.octicon-thumbsup:before { content: '\f0da'} /* ÃƒÂ¯Ã†â€™Ã…Â¡ */
-.octicon-tools:before { content: '\f031'} /* ÃƒÂ¯Ã¢â€šÂ¬Ã‚Â± */
-.octicon-trashcan:before { content: '\f0d0'} /* ÃƒÂ¯Ã†â€™Ã‚Â */
-.octicon-triangle-down:before { content: '\f05b'} /* ÃƒÂ¯Ã‚ÂÃ¢â‚¬Âº */
-.octicon-triangle-left:before { content: '\f044'} /* ÃƒÂ¯Ã‚ÂÃ¢â‚¬Å¾ */
-.octicon-triangle-right:before { content: '\f05a'} /* ÃƒÂ¯Ã‚ÂÃ…Â¡ */
-.octicon-triangle-up:before { content: '\f0aa'} /* ÃƒÂ¯Ã¢â‚¬Å¡Ã‚Âª */
-.octicon-unfold:before { content: '\f039'} /* ÃƒÂ¯Ã¢â€šÂ¬Ã‚Â¹ */
-.octicon-unmute:before { content: '\f0ba'} /* ÃƒÂ¯Ã¢â‚¬Å¡Ã‚Âº */
-.octicon-versions:before { content: '\f064'} /* ÃƒÂ¯Ã‚ÂÃ‚Â¤ */
-.octicon-watch:before { content: '\f0e0'} /* ÃƒÂ¯Ã†â€™Ã‚Â  */
+.octicon-tag:before { content: '\f015'} /* ÃƒÆ’Ã‚Â¯ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¢ */
+.octicon-telescope:before { content: '\f088'} /* ÃƒÆ’Ã‚Â¯ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€¹Ã¢â‚¬Â  */
+.octicon-terminal:before { content: '\f0c8'} /* ÃƒÆ’Ã‚Â¯Ãƒâ€ Ã¢â‚¬â„¢Ãƒâ€¹Ã¢â‚¬Â  */
+.octicon-three-bars:before { content: '\f05e'} /* ÃƒÆ’Ã‚Â¯Ãƒâ€šÃ‚ÂÃƒâ€¦Ã‚Â¾ */
+.octicon-thumbsdown:before { content: '\f0db'} /* ÃƒÆ’Ã‚Â¯Ãƒâ€ Ã¢â‚¬â„¢ÃƒÂ¢Ã¢â€šÂ¬Ã‚Âº */
+.octicon-thumbsup:before { content: '\f0da'} /* ÃƒÆ’Ã‚Â¯Ãƒâ€ Ã¢â‚¬â„¢Ãƒâ€¦Ã‚Â¡ */
+.octicon-tools:before { content: '\f031'} /* ÃƒÆ’Ã‚Â¯ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â± */
+.octicon-trashcan:before { content: '\f0d0'} /* ÃƒÆ’Ã‚Â¯Ãƒâ€ Ã¢â‚¬â„¢Ãƒâ€šÃ‚Â */
+.octicon-triangle-down:before { content: '\f05b'} /* ÃƒÆ’Ã‚Â¯Ãƒâ€šÃ‚ÂÃƒÂ¢Ã¢â€šÂ¬Ã‚Âº */
+.octicon-triangle-left:before { content: '\f044'} /* ÃƒÆ’Ã‚Â¯Ãƒâ€šÃ‚ÂÃƒÂ¢Ã¢â€šÂ¬Ã…Â¾ */
+.octicon-triangle-right:before { content: '\f05a'} /* ÃƒÆ’Ã‚Â¯Ãƒâ€šÃ‚ÂÃƒâ€¦Ã‚Â¡ */
+.octicon-triangle-up:before { content: '\f0aa'} /* ÃƒÆ’Ã‚Â¯ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Âª */
+.octicon-unfold:before { content: '\f039'} /* ÃƒÆ’Ã‚Â¯ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â¹ */
+.octicon-unmute:before { content: '\f0ba'} /* ÃƒÆ’Ã‚Â¯ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Âº */
+.octicon-versions:before { content: '\f064'} /* ÃƒÆ’Ã‚Â¯Ãƒâ€šÃ‚ÂÃƒâ€šÃ‚Â¤ */
+.octicon-watch:before { content: '\f0e0'} /* ÃƒÆ’Ã‚Â¯Ãƒâ€ Ã¢â‚¬â„¢Ãƒâ€šÃ‚Â  */
 .octicon-remove-close:before,
-.octicon-x:before { content: '\f081'} /* ÃƒÂ¯Ã¢â‚¬Å¡Ã‚Â */
-.octicon-zap:before { content: '\26A1'} /* ÃƒÂ¢Ã…Â¡Ã‚Â¡ */
+.octicon-x:before { content: '\f081'} /* ÃƒÆ’Ã‚Â¯ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â */
+.octicon-zap:before { content: '\26A1'} /* ÃƒÆ’Ã‚Â¢Ãƒâ€¦Ã‚Â¡Ãƒâ€šÃ‚Â¡ */
 
 
 
@@ -9701,7 +9701,7 @@ fieldset[disabled] .form-control {
 }
 .link-select-row {
   padding: 5px;
-  border-bottom: 1px solid #EBEFF2;
+  border-bottom: 1px solid #2b2b2b;
 }
 /* jquery ui */
 .ui-datepicker .ui-datepicker-header {
@@ -11940,7 +11940,7 @@ body {
   cursor: pointer;
   padding: 5px;
   padding-bottom: 15px;
-  border: 1px solid #d1d8dd;
+  border: 1px solid #333333;
   margin-bottom: 5px;
 }
 .pos-item-text {
@@ -11972,7 +11972,7 @@ body {
 }
 .pos-item-toolbar {
   padding: 10px 0px;
-  border-bottom: 1px solid #d1d8dd;
+  border-bottom: 1px solid #282828;
 }
 .item-list-area {
   padding: 15px 0px;
@@ -11987,9 +11987,10 @@ body {
   margin-bottom: 0px;
 }
 .pos-bill-wrapper {
-  border: 1px solid #d1d8dd;
+  border: 1px solid #313131;
   border-top: none;
   margin-right: -1px;
+  box-shadow: 1px 1px 20px #171717;
 }
 .pos-bill {
   margin-left: -15px;
@@ -11998,11 +11999,11 @@ body {
 .pos-bill-row {
   margin: 0px;
   padding: 7px 0px;
-  border-top: 1px solid #d1d8dd;
+  border-top: 1px solid #1f1f1f;
 }
 .pos-bill-header {
   border: none !important;
-  background-color: #f5f7fa;
+  background-color: #444444;
 }
 .pos-item-qty {
   display: inline-block;
@@ -12438,7 +12439,7 @@ body[data-route="pos"] .modal-dialog {
 }
 .list-row:hover,
 .grid-row:hover {
-  background-color: #282828;
+  background-color: #292929;
 }
 .no-hover:hover {
   background-color: transparent !important;
